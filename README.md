@@ -1,24 +1,17 @@
-# client
+# Shopping Manager
 
-## Project setup
-```
-yarn install
-```
+A simple app to manage shopping list.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### Demo Link
 
-### Compiles and minifies for production
-```
-yarn build
-```
+link: [https://shopping-manager.vercel.app/](https://shopping-manager.vercel.app/)
 
-### Lints and fixes files
-```
-yarn lint
-```
+### Technologies Used
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- VueJS
+- Vuex
+- Vuetify
+
+### License
+
+[MIT](https://choosealicense.com/licenses/mit/)
